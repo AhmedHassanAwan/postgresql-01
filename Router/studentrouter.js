@@ -1,16 +1,3 @@
-// import express from "express";
-
-// import {createUser,getstudents,getStudentById } from  "../controller/students.js";
-
-
-// const router = express.Router();
-
-// router.post('/students', createUser);
-// router.get('/students', getstudents);
-// router.get('/students/:id', getStudentById);
-
-
-// export default router;
 
 
 
